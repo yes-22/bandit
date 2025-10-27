@@ -13,6 +13,7 @@
 ```diff
 - uses: sigstore/cosign-installer@v3.10.0
 + uses: sigstore/cosign-installer@v4.0.0
+```
 
 ## 변경 요약
 - cosign-installer는 GitHub Actions 환경에서 Cosign(서명 및 검증 도구) 을 설치하는 액션
